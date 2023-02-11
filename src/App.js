@@ -13,7 +13,7 @@ class App extends Component {
         <AmplifySignOut />
         <header className="App-header">
           <h1>Sample App</h1>
-          <p>これは、サンプルで作成したアプリです</p>
+          <p>これは、Web版Visual Studio Codeで修正したアプリです</p>
         </header>
       </div>
     );
